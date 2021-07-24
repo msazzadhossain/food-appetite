@@ -1,0 +1,152 @@
+body {
+    margin: 0;
+}
+#logo {
+    width: 18%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}
+.montserrat-font {
+    font-family: 'Montserrat', sans-serif;
+}
+.roboto-font {
+    font-family: 'Roboto', sans-serif;  
+}
+h1 {
+    font-size: 48px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    color: dimgray;
+}
+.flexible-container {
+    display: flex;
+    margin-bottom: 70px;
+}
+.half-width {
+    width: 50%;
+}
+.intro-left-margin {
+    margin-left: 7%;
+}
+.intro-headline {
+    line-height: 63px;
+}
+.orange-highlight {
+    color: #ff8367;
+}
+.gray-highlight {
+    color: rgb(83, 83, 83);
+}
+.intro-headline-1st-line {
+    padding-top: 110px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.intro-headline-2nd3rd-line {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+}
+.intro-left-margin p {
+    padding-top: 5px;
+    padding-bottom: 30px;
+    padding-right: 150px;
+    line-height: 25px;
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(45deg, lightSalmon, Tomato);
+    padding: 15px 35px;
+    border-radius: 25px;
+    color: white;
+    box-shadow: 1px 1px 13px lightsalmon;
+}
+#intro-image {
+    width: 90%;
+    padding-left: 5px;
+}
+.about-area {
+    background-image: url(images/shapes/7.png);
+    height: 500px;
+}
+#about-image {
+    width: 45%;
+    padding-top: 50px;
+    padding-left: 185px;
+}
+.about-sizing {
+    padding-top: 80px;
+}
+.about-sizing p {
+    line-height: 25px;
+    padding-right: 150px;
+    padding-bottom: 50px;
+}
+.recipies-intro {
+    text-align: center;
+}
+.recipies-boxes {
+    margin-top: 40px;
+    margin-left: 70px;
+    margin-right: 110px;
+}
+.one-third-width {
+    width: 30%;
+    margin-left: 45px;
+    padding: 15px;
+}
+.one-third-width img {
+    width: 100%;
+}
+.recipies-box {
+    box-shadow: 1px 1px 30px rgb(233, 233, 233);
+    border-radius: 20px;
+    height: 370px;
+    background-color: white;
+}
+.recipies-box h3 {
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.recipies-link {
+    text-decoration: none;
+}
+.recipies-box p {
+    line-height: 25px;
+}
+.vegetables-intro {
+    text-align: center;
+}
+.vegetables-boxes {
+    margin-top: 40px;
+}
+.vegetables-one-third-width {
+    width: 33.3%;
+}
+.vegetables-one-third-width img {
+    width: 100%;
+}
+.vegetables-one-third-width h3 {
+    text-align: center;
+}
+.vegetables-link {
+    text-decoration: none;
+}
+footer {
+    text-align: center;
+    background-color: black;
+    height: 200px;
+    padding-top: 50px;
+}
+footer p {
+    color: rgb(231, 229, 229);
+}
+
+
+
